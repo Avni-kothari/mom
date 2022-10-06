@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/951/760/27/pink-flowers-background-wallpaper-preview.jpg");
+
+}
+
+h1 {
+    font-size: 45px;
+    font-variant: small-caps;
+    word-spacing: 20px;
+}
+
+img {
+    width: 50%
+}
+
+#para {
+    font-size: 50px;
+
+    word-spacing: 10px;
+
+
+}
+
+#button1 {
+    width: 20%;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 25px;
+    background-color: darksalmon;
+    font-family: fantasy
+}
+
+p {
+    font-size: 35%;
+    font-family: 'allura', 'cursive';
+    font-size: 50px
+}
